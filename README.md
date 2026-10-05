@@ -1,3 +1,3 @@
 **git_projects**
 <hr>
-Learning github basics
+Learning github basics.
